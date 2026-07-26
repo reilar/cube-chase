@@ -1,5 +1,5 @@
 # Cube Chase
 
-Reflective metal cubes on a chase.
- 
-This version is for the KodeLife shader editor. The code is also available at ShaderToy, which use a slightly different coding convention.
+Reflective metal cubes spinning around and following each other, written in GLSL fragment shader language.
+
+Binary KodeLife file available.
